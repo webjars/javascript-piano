@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for JavaScript Piano
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/mrcoles/javascript-piano
