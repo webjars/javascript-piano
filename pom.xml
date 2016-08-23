@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>javascript-piano</artifactId>
-    <version>74c90339ad1d55a72a99fe6e33b35752c15d71c7</version>
+    <version>74c90340ad1d55a72a99fe6e33b35752c15d71c7-SNAPSHOT</version>
     <name>HTML5 JavaScript Piano</name>
     <description>WebJar for HTML5 JavaScript Piano</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/javascript-piano</url>
         <connection>scm:git:https://github.com/webjars/javascript-piano.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/javascript-piano.git</developerConnection>
-        <tag>javascript-piano-74c90339ad1d55a72a99fe6e33b35752c15d71c7</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
